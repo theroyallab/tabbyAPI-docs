@@ -6,6 +6,7 @@ Due to TabbyAPI solely being an API server, the community has provided custom-ta
     If you would like to showcase a community project, feel free to contact a dev!
 
 Below is a list of projects that integrate TabbyAPI:
+
 - [TabbyAPI Gradio Loader](https://github.com/theroyallab/tabbyAPI-gradio-loader) by Doctor Shotgun - Gradio WebUI for loading/unloading models and loras via TabbyAPI.
 - [ST TabbyAPI Loader](https://github.com/theroyallab/ST-tabbyapi-loader) by kingbri - SillyTavern extension for loading and unloading models via TabbyAPI.
 - [SillyTavern Launcher](https://github.com/SillyTavern/SillyTavern-Launcher) by deffcolony - CLI manager for AI tools which includes packaged setup and management of TabbyAPI.
