@@ -139,7 +139,7 @@ These are short-form instructions for other methods that users can use to instal
 
 ### Docker
 
-1. Install Docker and docker compose from the [docs](https://docs.docker.com/compose/install/
+1. Install Docker and docker compose from the [docs](https://docs.docker.com/compose/install/)
 2. Install the Nvidia container compatibility layer
     1. For Linux: [Nvidia container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
     2. For Windows: [Cuda Toolkit on WSL](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
